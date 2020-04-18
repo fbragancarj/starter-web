@@ -22,3 +22,5 @@ Inclusao de texto simples para o TEST3
 
 ## HOW TO CONTRIBUTE
 
+### Copyright
+2019 Git Training
