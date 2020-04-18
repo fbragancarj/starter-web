@@ -8,3 +8,6 @@ Sample website with plenty of files for demos
 
 ## TEST1
 Inclusao de texto simples para o TEST1
+
+## TEST2
+Inclusao de texto simples para o TEST2
