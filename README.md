@@ -21,6 +21,7 @@ Inclusao de texto simples para o TEST3
 ## Deployment
 
 ## HOW TO CONTRIBUTE
+You must contribute
 
 ### Copyright
 2019 Git Training
