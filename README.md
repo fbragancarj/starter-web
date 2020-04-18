@@ -1,12 +1,10 @@
 # Starter Web Repo
-
 This repository is for showing how Git and GitHub work
 
 ## Introduction
 This is a simple website project for showing how to use Git
 
 ## Purpose
-
 Sample website with plenty of files for demos
 
 ## TEST1
@@ -22,6 +20,9 @@ Inclusao de texto simples para o TEST3
 
 ## HOW TO CONTRIBUTE
 You must contribute
+
+## Other Things
+Other things
 
 ### Copyright
 2019 Git Training
