@@ -20,7 +20,7 @@ Inclusao de texto simples para o TEST3
 
 ## HOW TO CONTRIBUTE
 You must contribute
-
+Please fork this repository and issue Pull Request for Review
 ## Other Things
 Other things
 
