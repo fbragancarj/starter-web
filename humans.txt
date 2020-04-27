@@ -15,3 +15,5 @@
     HTML5, CSS3
     jQuery, Modernizr
 	Git 
+
+# Adding some text to v-1.3
