@@ -26,4 +26,4 @@ Please fork this repository and issue Pull Request for Review
 Other things
 
 ### Copyright
-2019 Git Training. All rights reserved.
+2020 Git Training. All rights reserved.
