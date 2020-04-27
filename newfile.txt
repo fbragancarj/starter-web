@@ -1,1 +1,2 @@
 Ajustando o arquivo newfile.txt para a versão 1.3
+Novo ajuste para gerar outro commit
