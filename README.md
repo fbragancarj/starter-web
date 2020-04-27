@@ -15,7 +15,7 @@ Inclusao de texto simples para o TEST1
 Inclusao de texto simples para o TEST2
 
 ## TEST3
-Inclusao de texto simples para o TEST3
+Preparacao do teste para a versao 1.3
 
 ## Deployment
 
