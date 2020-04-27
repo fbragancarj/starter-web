@@ -17,4 +17,4 @@
 	Git 
 
 # Adding some text to v-1.3 final
-Some text
+Some more text
