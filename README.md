@@ -18,6 +18,7 @@ Inclusao de texto simples para o TEST2
 Preparacao do teste para a versao 1.3
 
 ## Deployment
+Adjusting for Multiple Stash
 
 ## HOW TO CONTRIBUTE
 You must contribute
